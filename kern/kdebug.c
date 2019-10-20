@@ -10,7 +10,7 @@ extern const struct Stab __STAB_END__[];	// End of stabs table
 extern const char __STABSTR_BEGIN__[];		// Beginning of string table
 extern const char __STABSTR_END__[];		// End of string table
 
-
+// lab1 challenge work
 // stab_binsearch(stabs, region_left, region_right, type, addr)
 //
 //	Some stab types are arranged in increasing order by instruction
